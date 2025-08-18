@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Limonadinha_Total</string>
+    <string name="textoArvore">Colha 1 limão</string>
+    <string name="textoLimao">Clique para espremer</string>
+    <string name="textoCopoCheio">Clique para beber</string>
+    <string name="textoCopoVazio">Clique para refazer o ciclo</string>
+</resources>
